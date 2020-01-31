@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(name='pynspawn',
-      version='0.1',
-      description='Python wrapper for debootstrap',
+      version='1.0',
+      description='Python wrapper for systemd-nspawn',
       url='http://github.com/dfoulks1/pynspawn',
       author='Drew Foulks',
       author_email='dfoulks@gmail.com',
