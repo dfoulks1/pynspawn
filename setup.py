@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pynspawn',
-      version='1.0',
+      version='1.1',
       description='Python wrapper for systemd-nspawn',
       url='http://github.com/dfoulks1/pynspawn',
       author='Drew Foulks',
